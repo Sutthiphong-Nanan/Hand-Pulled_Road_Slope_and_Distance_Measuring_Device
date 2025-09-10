@@ -1,1 +1,2 @@
 # Road-slope-and-distance-measuring-tow-truck-esp32-encoder-gyroscope-led-display-
+![Diagram](Diagram.jpg)
