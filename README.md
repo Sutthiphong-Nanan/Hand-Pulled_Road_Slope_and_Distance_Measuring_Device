@@ -9,3 +9,4 @@ It uses the following components:
 - **Encoder**: Tracks wheel rotations to calculate distance traveled.
 
 ![Diagram](Diagram.jpg)
+![Photo](Pic_1.png)
